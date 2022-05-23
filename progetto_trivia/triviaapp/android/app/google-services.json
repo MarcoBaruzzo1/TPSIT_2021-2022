@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "353412042055",
+    "project_id": "triviatom-cd637",
+    "storage_bucket": "triviatom-cd637.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353412042055:android:813fbadfb6f770b68b5062",
+        "android_client_info": {
+          "package_name": "com.example.triviaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353412042055-5n23dfjj1emrofm74ukbogb4gvuqeusc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP8jparFdPAKEl9X_zgYNlfBRfTZuK-og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353412042055-5n23dfjj1emrofm74ukbogb4gvuqeusc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
